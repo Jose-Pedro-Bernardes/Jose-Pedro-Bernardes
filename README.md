@@ -4,16 +4,12 @@
 <h3 align="center">Web Developer Front-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-pedro-bernardes&label=Profile%20views&color=0e75b6&style=flat" alt="jose-pedro-bernardes" /> </p>
-<img align="right" alt="Coding" height="260"width="400" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif")>
+<img align="right" alt="Coding" height="320"width="480" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif")>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning: **React**
 
-- 👨‍💻 All of my projects are available at [#](#)
-
-- 📫 How to reach me **josepedro.bernardes1@gmail.com**
-
-- 📄 Know about my experiences [#](#)
+- 📫 How to reach me:   **josepedro.bernardes1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
