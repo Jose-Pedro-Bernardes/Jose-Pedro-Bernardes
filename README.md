@@ -1,5 +1,5 @@
 
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)](https://Jose-Pedro-Bernardes.io)
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)](https://github.com/Jose-Pedro-Bernardes) 
 <h1 align="center">Hi! I'm José Pedro</h1>
 <h3 align="center">Web Front-end Developer</h3>
 
