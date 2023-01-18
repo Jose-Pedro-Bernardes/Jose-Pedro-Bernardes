@@ -1,6 +1,5 @@
 
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)](https://github.com/Jose-Pedro-Bernardes) 
-<h1 align="center">Hi! I'm José Pedro</h1>
+<h1 align="center">Be simple, but extraordinary.</h1>
 <h3 align="center">Web Front-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-pedro-bernardes&label=Profile%20views&color=0e75b6&style=flat" alt="jose-pedro-bernardes" /> </p>
