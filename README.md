@@ -4,7 +4,7 @@
 <h3 align="center">Web Front-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jose-pedro-bernardes&label=Profile%20views&color=0e75b6&style=flat" alt="jose-pedro-bernardes" /> </p>
-[<img align="right" alt="Coding" height="320"width="480" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif")](https://github.com/Jose-Pedro-Bernardes)>
+<img align="right" alt="Coding" height="320"width="480" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif")>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning: **React**
