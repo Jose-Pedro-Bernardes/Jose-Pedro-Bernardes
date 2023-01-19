@@ -10,7 +10,7 @@
 <h3>Web Front-end Developer</h3>
 <p>Sou um desenvolvedor Front-end web com experiência em JavaScript, HTML, CSS e bibliotecas como React. Atualmente, estou me especializando em desenvolvimento full-stack web para expandir minhas habilidades e me tornar ainda mais valioso para minhas equipes.</p>
 
-<p>Me destaco por meu comprometimento, proatividade e persistência com meus projetos, e sempre estou disposto a orientar meus colegas e compartilhar meu conhecimento</p> 
+<p>Me destaco por meu comprometimento, proatividade e persistência com meus projetos, e sempre estou disposto a orientar meus colegas e compartilhar meu conhecimento.</p> 
 
 <p>Sou uma pessoa de mente aberta, sempre buscando aprender e melhorar continuamente. Acredito que minhas habilidades técnicas combinadas com minhas soft-skills me tornam um colaborador valioso para qualquer equipe.</p>
 
