@@ -20,3 +20,5 @@
 <p>Eu sempre busco escrever códigos legíveis e planeja-los para futuras adições e manutenções.</p>
 
 🎯
+
+![Jose-Pedro-Bernardes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jose-Pedro-Bernardes&show_icons=true&theme=radical)
