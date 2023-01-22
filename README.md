@@ -1,3 +1,5 @@
+<h1>Olá, sou o José Pedro e bem vindo(a) ao meu perfil!</h1>
+
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -7,6 +9,7 @@
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
 <h3>Web Front-end Developer</h3>
 <p>Sou um desenvolvedor Front-end web com experiência em JavaScript, HTML, CSS e bibliotecas como React. Atualmente, estou me especializando em desenvolvimento full-stack web para expandir minhas habilidades e me tornar ainda mais valioso para minhas equipes.</p>
 
