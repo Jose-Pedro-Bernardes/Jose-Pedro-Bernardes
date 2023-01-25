@@ -1,6 +1,13 @@
-<h1>Olá, sou o José Pedro e bem vindo(a) ao meu perfil! 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+José+Pedro!;I´m+a+Front-End+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
+<p>I am a web Front-end developer with experience in JavaScript, HTML, CSS, and libraries such as React. Currently, I am specializing in full-stack web development to expand my skills and become even more valuable to my teams.</p>
+
+🎯
+
+##
+
+### You can also find me here:
 <div id="badges">
   <a href="https://www.linkedin.com/in/-josé-pedro-bernardes-/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,17 +16,6 @@
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-
-<h3>Web Front-end Developer</h3>
-<p>Sou um desenvolvedor Front-end web com experiência em JavaScript, HTML, CSS e bibliotecas como React. Atualmente, estou me especializando em desenvolvimento full-stack web para expandir minhas habilidades e me tornar ainda mais valioso para minhas equipes.</p>
-
-<p>Me destaco por meu comprometimento, proatividade e persistência com meus projetos, e sempre estou disposto a orientar meus colegas e compartilhar meu conhecimento.</p> 
-
-<p>Sou uma pessoa de mente aberta, sempre buscando aprender e melhorar continuamente. Acredito que minhas habilidades técnicas combinadas com minhas soft-skills me tornam um colaborador valioso para qualquer equipe.</p>
-
-<p>Eu sempre busco escrever códigos legíveis e planeja-los para futuras adições e manutenções.</p>
-
-🎯
 
 
 <br><br>
