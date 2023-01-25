@@ -18,10 +18,10 @@
 </div>
 
 
-<br><br>
+##
 
 
-## Stack
+### Stack
 
 ![JavaScript][JavaScript]
 ![TypeScript][TypeScript]
