@@ -43,7 +43,6 @@
 [Node.js]: https://img.shields.io/badge/-Node.js-383332?style=flat-square&logo=node.js&logoColor=default
 [React.js]: https://img.shields.io/badge/-React.js-383332?style=flat-square&logo=react&logoColor=default
 [Nest.js]: https://img.shields.io/badge/-Nest.js-383332?style=flat-square&logo=NestJs&logoColor=default
-[Express]: https://img.shields.io/badge/-Express-383332?style=flat-square&logo=express&logoColor=default
 [Docker]: https://img.shields.io/badge/-Docker-383332?style=flat-square&logo=Docker&logoColor=default
 [Kafka]: https://img.shields.io/badge/-Kafka-383332?style=flat-square&logo=apachekafka&logoColor=default
 [Kong]: https://img.shields.io/badge/-Kong-383332?style=flat-square&logo=kong&logoColor=default
