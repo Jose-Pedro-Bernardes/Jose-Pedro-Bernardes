@@ -61,6 +61,5 @@
 [Git]: https://img.shields.io/badge/-Git-383332?style=flat-square&logo=git&logoColor=default
 [GitHub]: https://img.shields.io/badge/-GitHub-383332?style=flat-square&logo=github&logoColor=default
 [GitLab]: https://img.shields.io/badge/-GitLab-383332?style=flat-square&logo=GitLab&logoColor=default
-[Markdown]: https://img.shields.io/badge/-Markdown-383332?style=flat-square&logo=markdown&logoColor=default
 [vscode]: https://img.shields.io/badge/-Visual%20Studio%20Code-383332?style=flat-square&logo=visual-studio-code&logoColor=blue
 
