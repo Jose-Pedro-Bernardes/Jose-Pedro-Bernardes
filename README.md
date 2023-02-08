@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+José+Pedro!;I´m+a+Front-End+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
-<p>I am a web Front-end developer with experience in JavaScript, HTML, CSS, React and TypeScript Currently, I am specializing in full-stack web development to expand my skills and become even more valuable to my teams.</p>
+<p>I am a web Front-end developer with experience in JavaScript, HTML, CSS, React and TypeScript. Currently, I am specializing in full-stack web development to expand my skills and become even more valuable to my teams.</p>
 
 🎯
 
