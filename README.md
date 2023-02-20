@@ -34,7 +34,7 @@
 
 <br><br>
 
-<!-- stack -->
+
 [JavaScript]: https://img.shields.io/badge/-JavaScript-383332?style=flat-square&logo=javascript&logoColor=default
 [TypeScript]: https://img.shields.io/badge/-TypeScript-383332?style=flat-square&logo=typescript&logoColor=default
 [Node.js]: https://img.shields.io/badge/-Node.js-383332?style=flat-square&logo=node.js&logoColor=default
