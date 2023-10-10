@@ -32,16 +32,17 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
   <a href="https://discord.com/channels/@me/1103848587487621171" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
- 
-  <div align="left" >
+
+##
+<div align="left" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,python,django,css,html,react,next,tailwind,sass,nodejs,express,figma,github,styledcomponents,vercel,postgres" />
 </a>
   <br />
 
   </div>
 
- 
+
 ##
    <div align="left" >
      <img src="https://github-profile-trophy.vercel.app/?username=Jose-Pedro-Bernardes&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
