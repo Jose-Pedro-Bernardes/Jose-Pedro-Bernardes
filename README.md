@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, sou o José Pedro, um desenvolvedor full-stack com um pouco mais de 1 ano na área.
+  Olá, sou o José Pedro, um desenvolvedor full-stack com pouco mais de 1 ano na área.
 </p>
 
 <p align="left">
