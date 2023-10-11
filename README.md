@@ -51,7 +51,7 @@
    /// Como centralizar uma div?
   
        <div style="display: flex; justify-content: center; align-items: center; width: 100vw; height: 100vh;">
-          <div style="width: 300px; height: 200px; background-color: black; text-align: center;">
+          <div style="width: 300px; height: 200px; background-color: black; text-align: center; color: white;">
               <p>Este é um exemplo de centralização de div com Flexbox e CSS inline.</p>
           </div>
        </div>
