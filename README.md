@@ -20,10 +20,6 @@
 </p>
 
 <p align="left">
-  📊 Projeto atual: Atuo como voluntário e desenvolvedor front-end no projeto da ONG Palavras de Paz.
-</p>
-
-<p align="left">
   💌 Entre em contato comigo por uma das minhas redes sociais:
 </p>
 
