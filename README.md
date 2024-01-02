@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  📚 Estudando: Meu foco atualmente é dominar o framework de testes automatizados Cypress, porém tenho planos para aprimorar meus conhecimentos em C#. Além disso, continuo evoluindo em conceitos e desafios do mundo web.
+  📚 Estudando: Atualmente, estou aprofundando meus conhecimentos em desenvolvimento utilizando a linguagem C# e seus frameworks, como .NET e ASP.NET.
 </p>
 
 <p align="left">
