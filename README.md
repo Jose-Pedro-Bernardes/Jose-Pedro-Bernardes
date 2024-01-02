@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  ☕ Linguagens: Javascript/Typescript, Python, C#.
+  ☕ Linguagens: Javascript, Python, C#.
 </p>
 
 <p align="left">
