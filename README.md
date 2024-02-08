@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  📚 Estudando: Atualmente, estou aprofundando meus conhecimentos em desenvolvimento utilizando a linguagem C# e seus frameworks, como ASP.NET.
+  📚 Estudando: Atualmente, estou aprofundando meus conhecimentos em desenvolvimento utilizando a linguagem C# e seus frameworks, como ASP.NET CORE.
 </p>
 
 <p align="left">
