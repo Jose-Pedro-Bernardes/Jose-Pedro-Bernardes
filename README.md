@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, sou o José Pedro, um desenvolvedor Full Stack com pouco mais de 1 ano na área.
+  Olá, sou o José Pedro, um desenvolvedor Full Stack com 2 anos de experiência na área.
 </p>
 
 <p align="left">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  📚 Estudando: Atualmente, estou aprofundando meus conhecimentos em desenvolvimento utilizando a linguagem C# desenvolvendo API's RESTFUL com ASP.NET Core.
+  📚 Desenvolvimento Contínuo: Atualmente, estou aprimorando minhas habilidades em desenvolvimento com foco em C#, aprofundando-me na criação de API's RESTFUL com ASP.NET Core.
 </p>
 
 <p align="left">
