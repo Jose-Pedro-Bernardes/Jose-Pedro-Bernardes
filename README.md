@@ -1,7 +1,4 @@
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Sou+o+José+Pedro!;Desenvolvedor+Full+Stack.;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG">
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Sou+o+José+Pedro!;Desenvolvedor+Full+Stack.;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG">
   
 ***
 
