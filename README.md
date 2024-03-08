@@ -5,8 +5,9 @@
   </a>
 </h1>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<br/>
 <p align="left"> 
   Olá, sou o José Pedro, um desenvolvedor Full Stack com 2 anos de experiência na área.
 </p>
@@ -23,6 +24,7 @@
   💌 Entre em contato comigo por uma das minhas redes sociais:
 </p>
 
+<br/>
 <p align="left">
 
   <a href="https://www.linkedin.com/in/jose-pedro-bernardes/" alt="LinkedIn">
@@ -38,7 +40,6 @@
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,nodejs,python,react,next,vite,tailwind,cs,net,sass,styledcomponents,vercel,express,django,postgres,mongodb,mysql,css,html,figma,wordpress" />
 </a>
-  <br />
 
   </div>
 
