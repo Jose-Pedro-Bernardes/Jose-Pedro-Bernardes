@@ -40,7 +40,7 @@
 
 <div align="left" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,nodejs,python,react,next,vite,tailwind,cs,net,sass,styledcomponents,vercel,express,django,postgres,mongodb,mysql,css,html,figma,wordpress" />
+<img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,nodejs,python,react,next,vite,tailwind,cs,net,sass,styledcomponents,vercel,express,django,postgres,mongodb,mysql,css,html,figma,wordpress" />
 </a>
 
   </div>
