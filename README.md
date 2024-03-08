@@ -34,6 +34,7 @@
   <a href="https://discord.com/channels/@me/1103848587487621171" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 <br/>
+<br/>
 
 ***
 
