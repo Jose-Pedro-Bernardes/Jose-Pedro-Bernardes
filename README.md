@@ -1,10 +1,9 @@
 
-<h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+José+Pedro!;I´m+a+Full+Stack+Developer.;Welcome+to+my+GitHub!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Sou+o+José+Pedro!;Desenvolvedor+Full+Stack.;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG">
   </a>
-</h1>
-
+  
+***
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <br/>
@@ -35,7 +34,8 @@
   <a href="https://discord.com/channels/@me/1103848587487621171" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&labelColor=7289da&logo=discord&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-##
+***
+
 <div align="left" >
 <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,nodejs,python,react,next,vite,tailwind,cs,net,sass,styledcomponents,vercel,express,django,postgres,mongodb,mysql,css,html,figma,wordpress" />
