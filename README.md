@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  ☕ Linguagens: Javascript, Python, C#.
+  ☕ Linguagens: Javascript, Python, C#, Java.
 </p>
 
 <p align="left">
