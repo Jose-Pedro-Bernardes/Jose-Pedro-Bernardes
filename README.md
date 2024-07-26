@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  📚 Desenvolvimento Contínuo: Atualmente, estou aprimorando minhas habilidades em desenvolvimento com foco em C#, aprofundando-me na criação de API's RESTFUL com ASP.NET Core.
+  📚 Desenvolvimento Contínuo: Atualmente, estou aprimorando minhas habilidades em desenvolvimento com foco em Java, aprofundando-me na criação de API's RESTFUL.
 </p>
 
 <p align="left">
