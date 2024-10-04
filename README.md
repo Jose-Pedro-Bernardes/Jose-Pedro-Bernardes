@@ -13,10 +13,6 @@
 </p>
 
 <p align="left">
-  📚 Desenvolvimento Contínuo: Atualmente, estou aprimorando minhas habilidades em desenvolvimento com foco em Java, aprofundando-me na criação de API's RESTFUL.
-</p>
-
-<p align="left">
   💌 Entre em contato comigo por uma das minhas redes sociais:
 </p>
 
