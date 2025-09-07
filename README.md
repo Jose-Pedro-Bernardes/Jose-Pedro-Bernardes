@@ -5,11 +5,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <br/>
 <p align="left"> 
-  Olá, sou o José Pedro, um desenvolvedor Full Stack com 2 anos de experiência na área.
+  Olá, sou o José Pedro, um desenvolvedor Full Stack.
 </p>
 
 <p align="left">
-  ☕ Linguagens: Javascript.
+  ☕ Linguagens: Javascript, Python.
+  🎯 Foco: React/Next.js
 </p>
 
 <p align="left">
