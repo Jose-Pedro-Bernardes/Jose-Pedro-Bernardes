@@ -14,6 +14,10 @@
 </p>
 
 <p align="left">
+  🎯 Foco: React/Next.js
+</p>
+
+<p align="left">
   💌 Entre em contato comigo por uma das minhas redes sociais:
 </p>
 
