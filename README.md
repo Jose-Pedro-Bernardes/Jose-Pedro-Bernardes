@@ -10,7 +10,6 @@
 
 <p align="left">
   ☕ Linguagens: Javascript, Python.
-  🎯 Foco: React/Next.js
 </p>
 
 <p align="left">
