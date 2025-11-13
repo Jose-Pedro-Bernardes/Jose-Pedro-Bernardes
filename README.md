@@ -10,10 +10,7 @@
 
 <p align="left">
   ☕ Linguagens: Javascript, Python.
-</p>
-
-<p align="left">
-  🎯 Foco: React/Next.js
+  🧩 Frameworks: React/Next.js, Django, Express.js .
 </p>
 
 <p align="left">
