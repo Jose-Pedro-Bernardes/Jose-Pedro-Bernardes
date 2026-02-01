@@ -7,7 +7,7 @@
 
 
 <p align="left">
-  ☕ Linguagens: Javascript, Python.
+  ☕ Linguagens: JavaScript/TypeScript.
 </p>
 
 <p align="left">
