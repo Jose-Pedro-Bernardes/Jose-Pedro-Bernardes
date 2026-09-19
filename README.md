@@ -31,7 +31,7 @@
 
 <div align="left" >
 <a href="https://skillicons.dev"   >
-<img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,nodejs,python,react,next,tailwind,cs,net,sass,styledcomponents,vercel,express,django,postgres,mongodb,mysql,figma,wordpress" />
+<img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,nodejs,python,react,next,tailwind,cs,net,sass,styledcomponents,vercel,express,django,nest,postgres,mongodb,mysql,figma,wordpress" />
 </a>
 
   </div>
